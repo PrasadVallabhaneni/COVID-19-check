@@ -101,7 +101,7 @@ function results() {
 
 
 
-// another method////
+// Execution of above change function code in multiple steps////
 
   // document.getElementById("que1").onchange = function() {
   //   show("sym2");
